@@ -6,6 +6,6 @@
   <default remote="github"
            revision="main" />
 
-  <project name="your-username/project-a" path="project-a" />
-  <project name="your-username/project-b" path="project-b" />
+  <project name="tyjeon24/project-a" path="project-a" />
+  <project name="tyjeon24/project-b" path="project-b" />
 </manifest>
